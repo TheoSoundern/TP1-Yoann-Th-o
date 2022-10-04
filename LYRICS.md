@@ -2,13 +2,13 @@
 ## IAM
 
 ## Chœur
-__L'École du micro d'argent \
+_L'École du micro d'argent \
 L'École du micro d'argent \
 L'École du micro d'argent \
 L'École du micro d'argent \
 L'École du micro d'argent \
 L'École du micro d'argent \
-L'École du micro d'argent__ 
+L'École du micro d'argent_
 
 ## Shurik'n
 _Assis en tailleur, voilà des heures que je médite \
